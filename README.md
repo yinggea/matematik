@@ -1,2 +1,2 @@
 # matematik
-Ideer til opgaver matematik-programmering
+Ideer til opgaver matematik/programmering
