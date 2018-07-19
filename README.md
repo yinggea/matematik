@@ -1,2 +1,2 @@
 # matematik
-læseplaner, opgaver o.l. til matematikholdet
+Ideer til opgaver matematik-programmering
